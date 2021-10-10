@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Welcome to the Axontic</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, fugiat!</p>
       </header>
     </div>
   );
