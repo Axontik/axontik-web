@@ -1230,10 +1230,10 @@ input::-moz-focus-inner {
 .home-content h1 {
   font-size: 6.4rem;
   font-family: nexa;
-  line-height: 45px;
+  line-height: 60px;
   margin-top: 0;
   color: #FFFFFF;
-  letter-spacing: -1.50;
+  letter-spacing: 2.5px;
 }
 
 .home-content__main {
