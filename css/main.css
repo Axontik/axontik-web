@@ -1228,12 +1228,12 @@ input::-moz-focus-inner {
 }
 
 .home-content h1 {
-  font-size: 6.4rem;
+  font-size: 5.4rem;
   font-family: nexa;
-  line-height: 60px;
+  line-height: 55px;
   margin-top: 0;
   color: #FFFFFF;
-  letter-spacing: 2.5px;
+  letter-spacing: 1.5;
 }
 
 .home-content__main {
@@ -1379,7 +1379,7 @@ input::-moz-focus-inner {
  * ## home copyright - (_site-layout.scss) 
  * ------------------------------------------------------------------- */
 .home-copyright {
-  z-index: 502;
+  z-index: 902;
   font-size: 1.5rem;
   line-height: 1.8;
   color: rgba(255, 255, 255, 0.2);
