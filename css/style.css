@@ -158,9 +158,9 @@ p {
     -ms-transition: all 0.4s ease-out 0s;
     -o-transition: all 0.4s ease-out 0s;
     transition: all 0.4s ease-out 0s;
-    background: -webkit-linear-gradient(left, #fe8464 0%, #fe6e9a 50%, #fe8464 100%);
-    background: -o-linear-gradient(left, #fe8464 0%, #fe6e9a 50%, #fe8464 100%);
-    background: linear-gradient(to right, #fe8464 0%, #fe6e9a 50%, #fe8464 100%);
+    background: -webkit-linear-gradient(left, #9b9a9a 0%, #313131 50%, #0a0a0a 100%);
+    background: -o-linear-gradient(left, #9b9a9a 0%, #313131 50%, #0a0a0a 100%);
+    background: linear-gradient(to right, #9b9a9a 0%, #313131 50%, #0a0a0a 100%);
     background-size: 200%;
     -webkit-box-shadow: 0px 3px 6px 0px rgba(112, 112, 112, 0.44);
     -moz-box-shadow: 0px 3px 6px 0px rgba(112, 112, 112, 0.44);
@@ -926,7 +926,7 @@ p {
 .navbar-nav .nav-item a::before {
     position: absolute;
     content: '';
-    background-color: #FE8464;
+    background-color: #0a0a0a;
     width: 0;
     height: 4px;
     top: -1px;
