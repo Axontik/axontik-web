@@ -391,6 +391,7 @@ p {
 
 /*===== All Preloader Style =====*/
 
+
 .preloader {
     /* Body Overlay */
     position: fixed;
@@ -400,7 +401,7 @@ p {
     height: 100%;
     width: 100%;
     /* Change Background Color */
-    background: #fff;
+    background: rgb(0, 0, 0);
     z-index: 99999;
 }
 
@@ -470,7 +471,7 @@ p {
     height: 100%;
     border-style: solid;
     /* Spinner Color */
-    border-color: #FE8464 #FE8464 #646F87;
+    border-color: #ffffff #ffffff #646F87;
     border-radius: 50%;
     border-width: 6px;
 }
